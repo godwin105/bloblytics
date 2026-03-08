@@ -134,9 +134,9 @@ bloblytics/
 ## 🛣️ Roadmap
 
 - [x] Project setup & architecture design
-- [ ] **Q2 2025** — MVP: Shelby integration, dataset upload, basic dashboards
-- [ ] **Q3 2025** — Beta: Multi-user access, advanced charts, Aptos wallet auth
-- [ ] **Q4 2025** — Launch: Public release, API access, collaboration tools
+- [ ] **Q2 2026** — MVP: Shelby integration, dataset upload, basic dashboards
+- [ ] **Q3 2026** — Beta: Multi-user access, advanced charts, Aptos wallet auth
+- [ ] **Q4 2026** — Launch: Public release, API access, collaboration tools
 - [ ] **Q1 2026** — Scale: AI-powered insights, mobile app, enterprise tier
 
 ---
@@ -179,9 +179,9 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 | | Link |
 |---|---|
-| 🌐 Website | [bloblytics.io](https://bloblytics.io) |
-| 🐦 Twitter/X | [@Bloblytics](https://twitter.com/Bloblytics) |
-| 💬 Discord | [Join our server](https://discord.gg/bloblytics) |
+| 🌐 Website | [ |
+| 🐦 Twitter/X | [ |
+| 💬 Discord | [ |
 | 📦 Shelby | [shelby.xyz](https://shelby.xyz) |
 | ⛓️ Aptos | [aptoslabs.com](https://aptoslabs.com) |
 
