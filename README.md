@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 <div align="center">
 
-# 📊 Bloblytics
+# Bloblytics
 
 ### Decentralized Storage Meets Data Intelligence
 
@@ -16,7 +16,7 @@
 
 ---
 
-## 🌐 What is Bloblytics?
+## What is Bloblytics?
 
 **Bloblytics** is an open-source analytics dashboard built on top of [Shelby](https://shelby.xyz) — a decentralized blob storage layer on the Aptos blockchain.
 
@@ -29,7 +29,7 @@ It lets anyone:
 
 ---
 
-## ✨ Features
+## Features
 
 | Feature | Description |
 |---|---|
@@ -66,7 +66,7 @@ Shelby SDK  ──►  Shelby Network (Aptos)
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
